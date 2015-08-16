@@ -2,3 +2,4 @@ aaaa(ローカルで編集)
 bbbb
 master
 githubで編集
+リモートで追加（マスタ）
